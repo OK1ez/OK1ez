@@ -6,6 +6,13 @@
 </p> 
 
 
+  <p align="center">
+    <a href="https://ko-fi.com/Y8Y6F3EGV">
+        <img title="OK1ez" alt="OK1ez" src="https://ko-fi.com/img/githubbutton_sm.svg"/>
+    </a>
+</p> 
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y6F3EGV)
 
 
