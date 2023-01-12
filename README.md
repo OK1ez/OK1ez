@@ -9,11 +9,6 @@
 </a>
 </div>
 
-[![ok1ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok1ez&show_icons=true&theme=radical)](https://github.com/ok1ez)
-)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok1ez&layout=compact&theme=radical)](https://github.com/ok1ez)
-)
-
 
 
 
