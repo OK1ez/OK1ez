@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=ED3F84&width=435&lines=Hey+there%2C+I'm+OK1ez!)](https://github.com/ok1ez)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=ED3F84&width=435&lines=Hey%2C+I'm+OK1ez!)](https://github.com/ok1ez)
 
 <div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
