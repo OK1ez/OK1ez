@@ -11,7 +11,7 @@
 
 
 
-[![OK1ez's github stats](https://github-readme-stats.vercel.app/api?username=OK1ez&theme=radical)](https://github.com/OK1ez)
+[![OK1ez's github stats](https://github-readme-stats.vercel.app/api?username=ok1ez&theme=radical)]
   </BR>
   </BR>
 [![OK1ez's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OK1ez&layout=compact&langs_count=10&include_orgs=true&theme=radical)](https://github.com/OK1ez)
