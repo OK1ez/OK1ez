@@ -5,8 +5,6 @@
 ![OK1ez's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ok1ez&layout=compact&langs_count=10&include_orgs=true&theme=radical)
 
 
-![Meme](https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983)
-
 
 
 
