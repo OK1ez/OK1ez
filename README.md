@@ -2,4 +2,4 @@
 
 ![OK1ez's github stats](https://github-readme-stats.vercel.app/api?username=ok1ez&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
   </BR>
-![OK1ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok1ez)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok1ez&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
