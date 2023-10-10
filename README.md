@@ -8,3 +8,5 @@
 * [ps-adminmenu](https://github.com/Project-Sloth/ps-adminmenu/)
 * [ps-inventory](https://github.com/Project-Sloth/ps-inventory/)
 
+### Hire Me: 
+* [Discord](https://discord.gg/RJcAVUNt38)
