@@ -6,3 +6,5 @@
 ### My Work:
 * [ps-dispatch V2](https://github.com/Project-Sloth/ps-dispatch/)
 * [ps-adminmenu](https://github.com/Project-Sloth/ps-adminmenu/)
+* [ps-inventory](https://github.com/Project-Sloth/ps-inventory/)
+
